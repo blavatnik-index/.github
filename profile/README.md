@@ -1,8 +1,8 @@
 # Blavatnik Index of Public Administration
 
-The Blavatnik Index of Public Administration is a benchmarking and peer learning project based at the [Blavatnik School of Government, University of Oxford](https://www.bsg.ox.uk) that aims to help senior officials, those leading reform efforts and other stakeholders understand how public administratoins and civil services around the world compare.
+The Blavatnik Index of Public Administration is a benchmarking and peer learning project based at the [Blavatnik School of Government, University of Oxford](https://www.bsg.ox.uk) that aims to help senior officials, those leading reform efforts and other stakeholders understand how public administrations and civil services around the world compare.
 
-The Blavatnik Index will be launched on Wednesday 4th December, [register here](https://www.bsg.ox.ac.uk/events/blavatnik-index-public-administration-launch) to watch the event. Read the results report and explore the data on the Blavatnik Index's dedicated website: https://index.bsg.ox.ac.uk
+Read the results report and explore the data on the Blavatnik Index's dedicated website: https://index.bsg.ox.ac.uk
 
 ## Copyright and licensing
 
